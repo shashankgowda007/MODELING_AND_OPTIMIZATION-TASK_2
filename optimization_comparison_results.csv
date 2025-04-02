@@ -1,0 +1,19 @@
+Function,Method,Avg Error,Std Error,Best Error,Worst Error,Avg Evals,Avg Time (s)
+F1 (2D),Nelder-Mead,1.67e+02,2.76e+02,5.83e-10,6.25e+02,120,0.00
+F1 (2D),Differential Evolution,1.00e-12,1.05e-12,0.00e+00,3.81e-12,1145,0.10
+F1 (2D),Particle Swarm Optimization,0.00e+00,0.00e+00,0.00e+00,0.00e+00,10000,0.42
+F1 (10D),Nelder-Mead,1.00e+03,8.78e+02,6.77e-09,3.13e+03,2311,0.10
+F1 (10D),Differential Evolution,1.41e-11,7.01e-12,5.63e-12,2.84e-11,21153,2.11
+F1 (10D),Particle Swarm Optimization,2.23e+03,1.22e+03,4.48e+01,5.00e+03,10000,0.59
+F2 (2D),Nelder-Mead,3.12e+01,1.91e+01,1.99e+00,6.47e+01,63,0.00
+F2 (2D),Differential Evolution,2.65e-14,4.08e-14,0.00e+00,1.14e-13,1382,0.12
+F2 (2D),Particle Swarm Optimization,2.65e-01,5.71e-01,0.00e+00,1.99e+00,10000,0.52
+F2 (10D),Nelder-Mead,1.43e+02,5.34e+01,6.67e+01,2.45e+02,1420,0.11
+F2 (10D),Differential Evolution,7.30e-01,1.23e+00,5.68e-14,3.98e+00,97413,10.81
+F2 (10D),Particle Swarm Optimization,4.34e+01,1.34e+01,2.78e+01,8.09e+01,10000,0.79
+F3 (2D),Nelder-Mead,2.48e+01,9.17e+00,1.20e+01,4.88e+01,59,0.00
+F3 (2D),Differential Evolution,8.07e+00,2.47e-01,8.00e+00,8.99e+00,1348,0.17
+F3 (2D),Particle Swarm Optimization,8.33e+00,4.67e-01,8.00e+00,8.99e+00,10000,0.74
+F3 (10D),Nelder-Mead,1.24e+02,2.25e+01,6.77e+01,1.50e+02,1590,0.16
+F3 (10D),Differential Evolution,4.01e+01,4.94e-01,4.00e+01,4.20e+01,57313,7.29
+F3 (10D),Particle Swarm Optimization,5.37e+01,5.16e+00,4.70e+01,6.41e+01,10000,0.91

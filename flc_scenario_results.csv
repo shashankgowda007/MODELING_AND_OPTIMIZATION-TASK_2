@@ -1,0 +1,6 @@
+Scenario,Room Temp,Humidity,Body Temp,Activity,Time of Day,Temp Control,Humidity Control,Air Circulation
+"Hot room, normal body temp",32,50,37.0,3,14,-5.0,0.0,5.0
+"Cold room, low body temp",17,45,36.0,2,23,6.24,-0.0,1.27
+"Comfortable room, fever",24,40,38.5,1,15,-2.0,0.0,3.54
+"Humid room, elevated body temp",28,75,37.8,4,18,-5.0,-5.0,5.0
+"Night time, resting",21,55,36.8,0,2,2.0,0.0,1.0
